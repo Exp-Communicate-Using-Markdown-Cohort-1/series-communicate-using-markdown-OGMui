@@ -13,3 +13,7 @@ let_there_be_light = "light"
 # Here is a Python code block
 
 ```
+- [ ] Task list item 1
+- [ ] Task list item 2
+- [ ] Task List item 3
+- [x] This item has been completed 
